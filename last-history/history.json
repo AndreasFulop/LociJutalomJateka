@@ -1,0 +1,23 @@
+{
+  "c8a5b25dfab44b52fa2b9a85c0fc568f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e610adb0ea697e38",
+      "reportUrl" : "https://AndreasFulop.github.io/LociJutalomJateka/1//#testresult/e610adb0ea697e38",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az83-740', ip: '10.1.0.108', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x557847797a63 <unknown>\n#1 0x55784750c458 <unknown>\n#2 0x55784752f2e3 <unknown>\n#3 0x55784752ae9f <unknown>\n#4 0x557847564b72 <unknown>\n#5 0x55784755efd3 <unknown>\n#6 0x557847535514 <unknown>\n#7 0x557847536505 <unknown>\n#8 0x5578477c3e2e <unknown>\n#9 0x5578477d9886 <unknown>\n#10 0x5578477c4d75 <unknown>\n#11 0x5578477dad94 <unknown>\n#12 0x5578477bb8eb <unknown>\n#13 0x5578477f5cd8 <unknown>\n#14 0x5578477f5e58 <unknown>\n#15 0x55784780fdfd <unknown>\n#16 0x7f262353d609 start_thread\n",
+      "time" : {
+        "start" : 1628594548480,
+        "stop" : 1628594549950,
+        "duration" : 1470
+      }
+    } ]
+  }
+}
