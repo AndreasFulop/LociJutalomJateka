@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://AndreasFulop.github.io/LociJutalomJateka",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #1116412327",
+  "buildUrl" : "https://github.com/AndreasFulop/LociJutalomJateka/actions/runs/1116412327",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://AndreasFulop.github.io/LociJutalomJateka/2/"
+} ]
